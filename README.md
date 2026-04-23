@@ -51,4 +51,6 @@ Este proyecto utiliza el **Stanford Dogs Dataset**:
 - Salida: Probabilidades por clase 
 
 
+## FUNCIONAMIENTO EN RED LOCAL
 
+- Usar streamlit run app.py en Visual Code
