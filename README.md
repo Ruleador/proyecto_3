@@ -7,7 +7,7 @@ Este programa es una aplicación de Inteligencia Artificial que identifica la ra
 
 Utiliza técnicas de **Deep Learning y Transfer Learning** con redes neuronales convolucionales para realizar clasificación de imágenes de forma automática.
 
-El modelo ha sido entrenado con miles de imágenes de diferentes razas de perros.
+El modelo ha sido entrenado previamente con el Stanford Dogs Dataset y desplegado en una aplicación interactiva con Streamlit.
 
 ---
 
@@ -48,6 +48,7 @@ Este proyecto utiliza el **Stanford Dogs Dataset**:
 - Modelo base: MobileNetV2 preentrenado en ImageNet  
 - Fine-tuning para clasificación de razas  
 - Capa final: Softmax  
-- Salida: Probabilidades por clase  
+- Salida: Probabilidades por clase 
+
 
 
