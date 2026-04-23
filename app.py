@@ -11,7 +11,7 @@ st.write("Sube la imagen de tu perro y te diré qué raza es.")
 
 @st.cache_resource
 def cargar_modelo():
-    return tf.keras.models.load_model("modelo_perros.h5", compile=False)
+    return tf.keras.models.load_model("modelo_perros.keras", compile=False)
 
 modelo = cargar_modelo()
 

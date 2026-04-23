@@ -53,4 +53,4 @@ modelo.compile(
 modelo.fit(train_data, validation_data=val_data, epochs=5)
 
 # Guardar modelo
-modelo.save("modelo_perros.h5")
+modelo.save("modelo_perros.keras")
