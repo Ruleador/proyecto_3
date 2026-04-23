@@ -1,13 +1,9 @@
-# 🐶 Dog Breed AI — Clasificador de Razas de Perros con Deep Learning
+# 🐶 — Clasificador de Razas de Perros con Deep Learning
 
-## 🚀 Demo en vivo
-👉 https://tu-app.streamlit.app (reemplaza con tu link de Streamlit Cloud)
 
----
+# 🧠 Descripción del proyecto
 
-## 🧠 Descripción del proyecto
-
-**Dog Breed AI** es una aplicación de Inteligencia Artificial que identifica la raza de un perro a partir de una imagen.
+Este programa es una aplicación de Inteligencia Artificial que identifica la raza de un perro a partir de una imagen.
 
 Utiliza técnicas de **Deep Learning y Transfer Learning** con redes neuronales convolucionales para realizar clasificación de imágenes de forma automática.
 
@@ -54,6 +50,4 @@ Este proyecto utiliza el **Stanford Dogs Dataset**:
 - Capa final: Softmax  
 - Salida: Probabilidades por clase  
 
----
 
-## 📁 Estructura del proyecto
